@@ -1,4 +1,7 @@
-package simplefactory;
+package factorypattern;
+
+import simplefactory.Circle;
+import simplefactory.Shape;
 
 public class RandomFactoryCreator extends ShapeFactoryCreator{
 

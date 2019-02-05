@@ -1,4 +1,9 @@
-package simplefactory;
+package factorypattern;
+
+import simplefactory.Circle;
+import simplefactory.Rectangle;
+import simplefactory.Shape;
+import simplefactory.Square;
 
 public class BalancedFactoryCreator extends ShapeFactoryCreator{
 
